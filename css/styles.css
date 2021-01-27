@@ -71,6 +71,7 @@ body {
 
 .backgroundbox {
   background-color: #00000052;
+  
 }
 
 [tabindex="-1"]:focus:not(:focus-visible) {
