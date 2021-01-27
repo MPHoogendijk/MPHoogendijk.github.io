@@ -10123,10 +10123,10 @@ header.masthead {
   padding-bottom: 6rem;
   text-align: center;
   color: #fff;
-  background-image: url("../assets/img/Foto - Zingen.jpg");
+  background-image: url("../assets/img/Foto - Zingen - cut.jpg");
   background-repeat: no-repeat;
   background-attachment: scroll;
-  background-position: center center;
+  background-position: top center;
   background-size: cover;
 }
 header.masthead .masthead-subheading {
@@ -10146,7 +10146,7 @@ header.masthead .masthead-heading {
 
 @media (min-width: 768px) {
   header.masthead {
-    padding-top: 17rem;
+    padding-top: 24rem;
     padding-bottom: 12.5rem;
   }
   header.masthead .masthead-subheading {
@@ -10159,7 +10159,7 @@ header.masthead .masthead-heading {
     font-size: 4.5rem;
     font-weight: 700;
     line-height: 4.5rem;
-    margin-bottom: 4rem;
+    margin-bottom: 2rem;
   }
 }
 #projecten .projecten-item {
