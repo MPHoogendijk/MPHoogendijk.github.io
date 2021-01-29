@@ -85,7 +85,7 @@ body {
   font-display: block;
 }
 
-i {
+mus-symbol {
   /* use !important to prevent issues with browser extensions that change fonts */
   font-family: 'MusicSymbols' !important;
   speak: never;
