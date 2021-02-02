@@ -213,12 +213,12 @@ Extra projecten -->
                 <!--Jekyll test -->
                 <div>
                     {% for post in site.posts %}
-                    <li>
+
                       <a href="{{ post.url }}">{{ post.title }}</a>
                       <p>{{ post.venue }}</p>
                       <p>{{ post.price }}</p>
                       {{ post.content }}
-                    </li>
+                    
                     {% endfor %}
                 </div>
 
